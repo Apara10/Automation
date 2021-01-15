@@ -10,6 +10,7 @@ public class Hooks {
 	public void beforevaldiation()
 	{
 		System.out.println("Before Mobile  hook");
+                     //demo
 	}
 	
 	@After("@MobileTest")
