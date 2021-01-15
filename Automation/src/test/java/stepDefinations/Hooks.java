@@ -12,6 +12,7 @@ public class Hooks {
 		System.out.println("Before Mobile  hook");
                      //demo
                      //demo1
+//demo3
 	}
 	
 	@After("@MobileTest")
